@@ -1,0 +1,14 @@
+.calculator {
+    border: 1px solid black;
+    margin:0 auto;
+    height:400px;
+    width:300px;
+    margin-top: 50px;
+}
+
+.viewer{
+    width:270px;
+    height:70px;
+    border:solid 1px black;
+    margin:0 auto;
+}
